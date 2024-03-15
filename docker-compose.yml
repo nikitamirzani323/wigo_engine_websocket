@@ -1,0 +1,10 @@
+version: '2'
+
+services:
+  engine_websocket_12d:
+    container_name: engine_websocket_12d
+    image: engine_websocket_12d:0.0.0.1
+    build: .
+    ports:
+      - 1117:1117
+    restart: always
