@@ -1,4 +1,4 @@
-module github.com/nikitamirzani323/btangkas-client
+module bitbucket.org/isbtotogroup/wigo_engine_websocket
 
 go 1.19
 
